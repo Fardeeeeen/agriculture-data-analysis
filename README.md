@@ -26,14 +26,6 @@ Before running the project, make sure you have Node.js and Yarn installed on you
     yarn start
     Open `http://localhost:3000` to view it in the browser.
 
-## Screenshots
-
-![Yearly Aggregates](public/table1.png)
-*Yearly Aggregates Table*
-
-![Crop Aggregates](public/table2.png)
-*Crop Aggregates Table*
-
 ## Project Structure
 `public/` - Static assets and `index.html.`</br>
 `src/`</br>
@@ -56,6 +48,14 @@ Adjustments to styling and functionality can be made in the source files under `
 ## Acknowledgments
 1. Data sourced from the National Data and Analytics Platform, NITI Aayog.
 2. Inspired by projects focusing on data visualization and UI/UX design.
+
+## Screenshots
+
+![Yearly Aggregates](public/table1.png)
+*Yearly Aggregates Table*
+
+![Crop Aggregates](public/table2.png)
+*Crop Aggregates Table*
 
 ## Author
 Fardeen Zubair</br>
