@@ -35,13 +35,13 @@ Before running the project, make sure you have Node.js and Yarn installed on you
 *Crop Aggregates Table*
 
 ## Project Structure
-`public/` - Static assets and `index.html.`
-`src/`
-`components/` - React components including `DataTable.js` and `Pagination.js`.
-`utils/` - Utility functions like data loading and aggregation.
-`App.js` - Main application component.
-`App.css` - Styles for the application.
-`index.js` - Entry point for React rendering.
+`public/` - Static assets and `index.html.`</br>
+`src/`</br>
+`components/` - React components including `DataTable.js` and `Pagination.js`.</br>
+`utils/` - Utility functions like data loading and aggregation.</br>
+`App.js` - Main application component.</br>
+`App.css` - Styles for the application.</br>
+`index.js` - Entry point for React rendering.</br>
 
 ## Notes
 Ensure the `crop-background.svg` is placed in the `public` directory for the background image to display correctly.
@@ -58,5 +58,5 @@ Adjustments to styling and functionality can be made in the source files under `
 2. Inspired by projects focusing on data visualization and UI/UX design.
 
 ## Author
-Fardeen Zubair
+Fardeen Zubair</br>
 `fardeenzubair@gmail.com`
